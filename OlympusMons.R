@@ -18,7 +18,7 @@ render_highquality(
   lightdirection = 200,
   lightaltitude = c(20, 80),
   lightcolor = c("white", "white"),
-  lightintensity =c(600, 100),
+  lightintensity = 500,
   samples = 200,
   width = 1500,
   height = 1500
